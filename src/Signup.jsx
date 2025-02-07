@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Container, TextField, Button, Typography, Box, AppBar, Toolbar } from "@mui/material";
+import { Container, TextField, Button, Typography, Box} from "@mui/material";
 import Layout from "./Layout/Layout";
 
 export default function SignUp() {
